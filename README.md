@@ -6,3 +6,4 @@
 
 # CI Test
 
+[![Build status](https://ci.appveyor.com/api/projects/status/vceljv8swikf2wqs?svg=true)](https://ci.appveyor.com/project/Julie-T/env)
